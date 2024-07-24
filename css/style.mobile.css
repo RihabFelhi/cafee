@@ -1,0 +1,85 @@
+.header nav h1 {
+  float: none;
+  text-align: center;
+}
+
+.header nav ul {
+  float: none;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: none;
+
+}
+
+.header nav ul li a {
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.vp {
+  height: 700px;
+  text-align: center;
+
+}
+
+.vp-content {
+  max-width: 300px;
+  color: white;
+
+
+}
+
+.vp-content h1 {
+
+  font-size: 2rem;
+}
+
+.sections {
+  text-align: center;
+}
+
+.section {
+  float: none;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.where {
+  font-size: 14px;
+  padding: 50px 0px 50px 0px;
+
+}
+
+.where-text {
+  float: none;
+  width: 100%;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.map {
+
+  float: none;
+  width: 100%;
+}
+
+
+
+.contact {
+  padding: 50px 20px 50px 20px;
+}
+
+.contact-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.form label {
+
+  font-size: 15px;
+
+}
